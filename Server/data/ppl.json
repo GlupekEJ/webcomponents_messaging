@@ -1,0 +1,22 @@
+{
+  "people": [
+    {
+      "name": "Erik",
+      "lastName": "LALALALALA",
+      "avatar": "../Assets/images/ai.jpg",
+      "age": "99"
+    },
+    {
+      "name": "Jos",
+      "lastName": "Bos",
+      "avatar": "../Assets/images/model_train.jpg",
+      "age": "99"
+    },
+    {
+      "name": "Lars",
+      "lastName": "Goedhals",
+      "avatar": "../Assets/images/Erik.jpg",
+      "age": "99"
+    }
+  ]
+}

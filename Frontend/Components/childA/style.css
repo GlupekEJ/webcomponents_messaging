@@ -1,0 +1,22 @@
+.child-a {
+  background-color: burlywood;
+  padding: 10px;
+  font-size: xx-large;
+  height: 15em;
+  width: 30vw;
+  border-radius: 12px;
+  border: solid #000000 4px;
+  overflow: scroll;
+}
+
+#send {
+  cursor: pointer;
+  background-color: rgb(192, 187, 192);
+  width: -moz-fit-content;
+  width: fit-content;
+  padding: 5px;
+  border-radius: 12px;
+  margin-left: 50px;
+  margin-bottom: 2em;
+  border: solid #000000 4px;
+}/*# sourceMappingURL=style.css.map */

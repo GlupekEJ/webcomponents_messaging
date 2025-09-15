@@ -1,0 +1,27 @@
+.parent{
+    margin-top: 0.5em;
+    padding-top: 2vh;
+
+    background-color: rgb(207, 218, 210);
+    height: 90vh;
+    font-size: xx-large;
+    
+}
+
+
+.parent-to-child{
+    border:solid #000000 4px;
+    background-color: blue;
+    color: aliceblue;
+    width:fit-content;
+    padding:5px;
+    border-radius: 12px;
+    margin-left: 6vw;
+    margin-bottom: 2em;
+    cursor: grab;
+}
+.dungeon{
+    display: flex;
+    justify-content: center;
+    gap: 2em;
+}

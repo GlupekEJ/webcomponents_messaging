@@ -1,0 +1,27 @@
+{
+  "name": "webcomponents-messaging-demo",
+  "version": "1.0.0",
+  "description": "A demo project using vanilla web components with messaging and live reload.",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "keywords": [
+    "web-components",
+    "express",
+    "livereload",
+    "vanilla-js"
+  ],
+  "author": "Erik Jaubin",
+  "license": "MIT",
+  "dependencies": {
+    "connect-livereload": "^0.6.1",
+    "express": "^4.19.2",
+    "livereload": "^0.9.3"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  }
+}
